@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.ncrunch*
+# Build results
+*.dll
+*.exe
+*.cache
+# Rider
+.idea/
+# NuGet
+packages/
+*.nupkg
+# Others
+.env
+.DS_Store
